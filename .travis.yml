@@ -1,3 +1,5 @@
 language: generic
 script:
-   - bash -e ./kadai3
+   - bash -e ./kadai3 15 3
+   - bash -e ./kadai3 20 5
+   - bash -e ./kadai3 25 5
